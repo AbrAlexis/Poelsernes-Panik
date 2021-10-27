@@ -1,2 +1,2 @@
-# Poelsernes-Panik
-Et spil om poelser
+# Poelse-Panik-Endelig
+ Endnu et spil om pølser
